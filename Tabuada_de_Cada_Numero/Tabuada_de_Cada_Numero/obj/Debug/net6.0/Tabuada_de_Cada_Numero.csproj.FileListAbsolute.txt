@@ -1,0 +1,14 @@
+C:\Users\redni\source\repos\Tabuada_de_Cada_Numero\Tabuada_de_Cada_Numero\bin\Debug\net6.0\Tabuada_de_Cada_Numero.exe
+C:\Users\redni\source\repos\Tabuada_de_Cada_Numero\Tabuada_de_Cada_Numero\bin\Debug\net6.0\Tabuada_de_Cada_Numero.deps.json
+C:\Users\redni\source\repos\Tabuada_de_Cada_Numero\Tabuada_de_Cada_Numero\bin\Debug\net6.0\Tabuada_de_Cada_Numero.runtimeconfig.json
+C:\Users\redni\source\repos\Tabuada_de_Cada_Numero\Tabuada_de_Cada_Numero\bin\Debug\net6.0\Tabuada_de_Cada_Numero.dll
+C:\Users\redni\source\repos\Tabuada_de_Cada_Numero\Tabuada_de_Cada_Numero\bin\Debug\net6.0\Tabuada_de_Cada_Numero.pdb
+C:\Users\redni\source\repos\Tabuada_de_Cada_Numero\Tabuada_de_Cada_Numero\obj\Debug\net6.0\Tabuada_de_Cada_Numero.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\redni\source\repos\Tabuada_de_Cada_Numero\Tabuada_de_Cada_Numero\obj\Debug\net6.0\Tabuada_de_Cada_Numero.AssemblyInfoInputs.cache
+C:\Users\redni\source\repos\Tabuada_de_Cada_Numero\Tabuada_de_Cada_Numero\obj\Debug\net6.0\Tabuada_de_Cada_Numero.AssemblyInfo.cs
+C:\Users\redni\source\repos\Tabuada_de_Cada_Numero\Tabuada_de_Cada_Numero\obj\Debug\net6.0\Tabuada_de_Cada_Numero.csproj.CoreCompileInputs.cache
+C:\Users\redni\source\repos\Tabuada_de_Cada_Numero\Tabuada_de_Cada_Numero\obj\Debug\net6.0\Tabuada_de_Cada_Numero.dll
+C:\Users\redni\source\repos\Tabuada_de_Cada_Numero\Tabuada_de_Cada_Numero\obj\Debug\net6.0\refint\Tabuada_de_Cada_Numero.dll
+C:\Users\redni\source\repos\Tabuada_de_Cada_Numero\Tabuada_de_Cada_Numero\obj\Debug\net6.0\Tabuada_de_Cada_Numero.pdb
+C:\Users\redni\source\repos\Tabuada_de_Cada_Numero\Tabuada_de_Cada_Numero\obj\Debug\net6.0\Tabuada_de_Cada_Numero.genruntimeconfig.cache
+C:\Users\redni\source\repos\Tabuada_de_Cada_Numero\Tabuada_de_Cada_Numero\obj\Debug\net6.0\ref\Tabuada_de_Cada_Numero.dll

@@ -1,0 +1,14 @@
+C:\Users\redni\source\repos\Calculo_IMC\Calculo_IMC\bin\Debug\net6.0\Calculo_IMC.exe
+C:\Users\redni\source\repos\Calculo_IMC\Calculo_IMC\bin\Debug\net6.0\Calculo_IMC.deps.json
+C:\Users\redni\source\repos\Calculo_IMC\Calculo_IMC\bin\Debug\net6.0\Calculo_IMC.runtimeconfig.json
+C:\Users\redni\source\repos\Calculo_IMC\Calculo_IMC\bin\Debug\net6.0\Calculo_IMC.dll
+C:\Users\redni\source\repos\Calculo_IMC\Calculo_IMC\bin\Debug\net6.0\Calculo_IMC.pdb
+C:\Users\redni\source\repos\Calculo_IMC\Calculo_IMC\obj\Debug\net6.0\Calculo_IMC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\redni\source\repos\Calculo_IMC\Calculo_IMC\obj\Debug\net6.0\Calculo_IMC.AssemblyInfoInputs.cache
+C:\Users\redni\source\repos\Calculo_IMC\Calculo_IMC\obj\Debug\net6.0\Calculo_IMC.AssemblyInfo.cs
+C:\Users\redni\source\repos\Calculo_IMC\Calculo_IMC\obj\Debug\net6.0\Calculo_IMC.csproj.CoreCompileInputs.cache
+C:\Users\redni\source\repos\Calculo_IMC\Calculo_IMC\obj\Debug\net6.0\Calculo_IMC.dll
+C:\Users\redni\source\repos\Calculo_IMC\Calculo_IMC\obj\Debug\net6.0\refint\Calculo_IMC.dll
+C:\Users\redni\source\repos\Calculo_IMC\Calculo_IMC\obj\Debug\net6.0\Calculo_IMC.pdb
+C:\Users\redni\source\repos\Calculo_IMC\Calculo_IMC\obj\Debug\net6.0\Calculo_IMC.genruntimeconfig.cache
+C:\Users\redni\source\repos\Calculo_IMC\Calculo_IMC\obj\Debug\net6.0\ref\Calculo_IMC.dll
